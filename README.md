@@ -7,7 +7,7 @@ This keyboard used a Pi Pico but other controller boards should be usable. All y
 
 ![IMG_0543](https://github.com/Brennan0/HW-KBD67/assets/51968218/dc2555e9-d53e-4f58-932d-53a64ac9725f)
 
-Soldering was done by using a diode for each switch. You shouldn't solder the diodes in series as there will be too much voltage drop as you get to the far reaching switches on the matrix. There should be row wires and column wires. Whichever way you decide to solder the diodes, they should just connect to the main row or column wires. 
+Soldering was done by using a 1n4148 through hole diode for each switch. You shouldn't solder the diodes in series as there will be too much voltage drop as you get to the far reaching switches on the matrix. There should be row wires and column wires. Whichever way you decide to solder the diodes, they should just connect to the main row or column wires. 
 
 ![IMG_0545](https://github.com/Brennan0/HW-KBD67/assets/51968218/9dcb603f-93f7-46e0-bb63-2a07b7cee494)
 
