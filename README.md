@@ -1,6 +1,5 @@
 # HW-KBD67
 ## Code written for this specifically handwired KBD67 Lite keyboard. This code is the complement to firmware code from KMK (https://github.com/KMKfw/kmk_firmware/tree/master/kmk). 
-
 This code was written for a handwired keyboard. The keyboard has the same layout as the KBD 67 Lite as the case for that specific keyboard was used for this project. 
 
 ## Controller and Soldering
