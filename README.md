@@ -18,7 +18,7 @@ The matrix may differ depending on how the keyboard is wired. From the following
 * I couldn't use pins 16 and 17 because resin had gotten into the holes and cured lol
 
 ![IMG_0033](https://github.com/Brennan0/HW-KBD67/assets/51968218/f8b8e091-676d-42ae-8064-d00ac5af5ea1)
-* This image shows my testing for each switch. The top 2 rows didn't work since there was too much voltage drop as a result of the diodes being soldered in series. :( Don't make the mistake of soldering in seriese as you will need to resolder all the diodes to a main wire.
+* This image shows my testing for each switch. The top 2 rows didn't work since there was too much voltage drop as a result of the diodes being soldered in series. :( Don't make the mistake of soldering in series as you will need to resolder all the diodes to a main wire.
 
 ## Final Assembly
 For this board, I only used a plate and the case. There was actually no space on the plate I got for plate mounted stabilizers so I just didn't use stabilizers lol. The only major key that had a noticable impact on the missing stabilizers was the space bar. So I just put a shorter modifier as a place holder. 
